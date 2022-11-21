@@ -24,10 +24,7 @@ export const baseStyles = css`
   }
   html,
   body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Mono', 'Mono Light', 'Oxygen',
-      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif,
-      'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
-
+    font-family: 'Monospace', monospace;
     font-size: 16px;
     scroll-behavior: smooth;
   }
@@ -38,7 +35,7 @@ export const baseStyles = css`
   }
 
   body {
-    : 'Mono';
+    : 'Roboto';
   }
   .visibleMobile {
     display: none;
@@ -371,7 +368,7 @@ export const baseStyles = css`
     /* box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16); */
     background-color: #f8f8f8;
     padding: 18px 16px;
-    font-family: 'Poppins';
+    font-family: 'Mono';
     font-size: 18px;
     font-weight: 600;
     color: #001934;
@@ -669,6 +666,8 @@ export const baseStyles = css`
     line-height: 1.5;
     margin-bottom: 16px;
     margin-top: 32px;
+    font-family: 'Monospace', monospace;
+
   }
 
   .heading2 {
@@ -677,7 +676,8 @@ export const baseStyles = css`
     line-height: 1.5;
     margin-bottom: 16px;
     margin-top: 32px;
-  }
+    font-family: 'Monospace', monospace;
+    }
 
   .heading3 {
     font-size: 20px;
@@ -685,6 +685,7 @@ export const baseStyles = css`
     line-height: 1.5;
     margin-bottom: 16px;
     margin-top: 32px;
+    font-family: 'Monospace', monospace;
   }
 
   .heading4 {
@@ -693,6 +694,7 @@ export const baseStyles = css`
     line-height: 1.5;
     margin-bottom: 16px;
     margin-top: 32px;
+    font-family: 'Monospace', monospace;
   }
 
   .heading5 {
@@ -701,6 +703,7 @@ export const baseStyles = css`
     line-height: 1.5;
     margin-bottom: 16px;
     margin-top: 32px;
+    font-family: 'Monospace', monospace;
   }
 
   .heading6 {
@@ -709,11 +712,13 @@ export const baseStyles = css`
     line-height: 1.5;
     margin-bottom: 16px;
     margin-top: 32px;
+    font-family: 'Monospace', monospace;
   }
 
   .paragraph {
     margin: 16px 0px 32px;
     line-height: 1.625;
+    font-family: 'Monospace', monospace;
   }
 
   .pre {
@@ -835,6 +840,8 @@ export const baseStyles = css`
     .titleWrapper {
       padding: 0 15px;
       display: block;
+      font-family: 'Monospace', monospace;
+
     }
 
     .gitBtn {
