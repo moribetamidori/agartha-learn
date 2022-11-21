@@ -1,6 +1,6 @@
 ---
-title: "Introduction to Agartha 🌠"
-metaTitle: "This is the title tag of this page"
+title: "🌠 Introduction to Agartha"
+metaTitle: "Introduction to Agartha"
 metaDescription: "This is the meta description"
 ---
 

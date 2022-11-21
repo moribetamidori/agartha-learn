@@ -55,7 +55,7 @@ const config = {
     description: 'web3 social platform',
     ogImage: null,
     docsLocation: 'https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content',
-    favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
+    favicon: 'https://s2.loli.net/2022/11/22/B5pTCXAZwsKEY9t.png',
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.
