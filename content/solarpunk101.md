@@ -1,26 +1,7 @@
 ---
 title: "🌞 SolarPunk101"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page"
+metaTitle: "SolarPunk101"
+metaDescription: ""
 ---
 
-The following is a code block with JavaScript language syntax highlighting.
-
-```javascript
-import React from 'react';
-```
-
-Supports multiple languages.
-
-The following is a code block with diff. Lines with `+` highlighted in green shade indicating an addition. Lines with `-` highlighted in red shade indicating a deletion.
-
-```javascript
-- const data = ['1','2'];
-+ const data = [1,2];
-```
-
-## Live Editing example
-
-```javascript react-live=true
-<button className={'btn btn-default'}>Change my text</button>
-```
+SolarPunk 101 is Agartha's first attempt to organize a cohort that connect like-minded Web3 Regen village builders, contributors and people who are curious about topic together in this intimate group. 
