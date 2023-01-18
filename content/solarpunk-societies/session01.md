@@ -6,7 +6,7 @@ metaDescription: ""
 # Session 01: Leaving the Matrix
 Contributor: [@Nico](https://twitter.com/syntonikka)
 
-**Discussions: What is the Matrix?**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vThQYhRFeh4csmwlDGRGoRc5bAL89Nvn40FaKgkI1_LYipwFUlqznq5t8YDFY5lCx0oOZtN3NLCB-ak/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 The Matrix can be defined as: a set of beliefs and institutions to enforce people not to live sovereign lives and always to engage in transactional consumer based relationships.
 
