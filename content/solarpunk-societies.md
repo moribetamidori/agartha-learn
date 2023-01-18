@@ -16,13 +16,13 @@ Both ‘technology’ and ‘wellbeing’ are multi-dimensional concepts beyond 
 
 # Course Outline
 
-**[Session 01: Leaving the Matrix](https://docs.google.com/presentation/d/1tDsMnszW5I8Al2EEXP4jrlYfNRuDPFB-RZfEGJg5pZQ/edit#slide=id.g1c6d81db1ff_0_13)**
+**[Session 01: Leaving the Matrix](https://learn.agartha.one/solarpunk-societies/session01)**
 
-**[Session 02: Taking the Green Pill](https://docs.google.com/presentation/d/15-aI6-1hPY-4xguImLXapt48TU57vsyd51baB3wuiUc/edit#slide=id.g1c6d81db1ff_0_13)**
+**[Session 02: Taking the Green Pill](https://learn.agartha.one/solarpunk-societies/session02)**
 
-**[Session 03: Existing Solarpunk Communities](https://docs.google.com/presentation/d/1WV59vVWkt9a4bDf-CC0woAPbQZK1bcgl1jkKZvK913Q/edit#slide=id.g1c6d81db1ff_0_13)**
+**Session 03: Existing Solarpunk Communities**
 
-**[Session 04: Pre-figuring Utopias](https://docs.google.com/presentation/d/11E9HjoGaCNB6BdSagfI-ESmAG5oRRFrQi3PWDgeuHhQ/edit#slide=id.g1d7fc452755_0_4)**
+**Session 04: Pre-figuring Utopias**
 
 **Session 05: Coordination Protocols**
 
