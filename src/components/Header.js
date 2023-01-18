@@ -103,10 +103,6 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                   alt={'logo'}
                 />
               </Link>
-                <DarkModeSwitch
-                  isDarkThemeActive={isDarkThemeActive}
-                  toggleActiveTheme={toggleActiveTheme}
-                />
               <div
                 className={'headerTitle displayInline'}
                 dangerouslySetInnerHTML={{ __html: headerTitle }}
@@ -140,6 +136,10 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                 })}
               </ul>
             </div>
+            <DarkModeSwitch
+                  isDarkThemeActive={isDarkThemeActive}
+                  toggleActiveTheme={toggleActiveTheme}
+                />
           </nav>
           <StyledBgDiv isDarkThemeActive={isDarkThemeActive}>
             <div className={'navBarDefault removePadd'}>

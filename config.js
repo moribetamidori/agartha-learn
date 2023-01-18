@@ -7,7 +7,7 @@ const config = {
   },
   header: {
     logo: 'https://s2.loli.net/2022/11/22/1l8XvoVMdFwZxkJ.png',
-    logoLink: 'https://learn.agartha.one/',
+    logoLink: 'https://www.agartha.one/',
     // title:
     //   "<a href=''><img class='img-responsive' src='' alt='Learn logo' /></a>",
     githubUrl: 'https://github.com/hasura/gatsby-gitbook-boilerplate',
