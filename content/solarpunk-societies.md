@@ -20,9 +20,9 @@ Both ‘technology’ and ‘wellbeing’ are multi-dimensional concepts beyond 
 
 **[Session 02: Taking the Green Pill](https://learn.agartha.one/solarpunk-societies/session02)**
 
-**Session 03: Existing Solarpunk Communities**
+**[Session 03: The Network State of Solarpunk Communities](https://learn.agartha.one/solarpunk-societies/session03)**
 
-**Session 04: Pre-figuring Utopias**
+**[Session 04: Pre-figuring Utopias](https://learn.agartha.one/solarpunk-societies/session04)**
 
 **Session 05: Coordination Protocols**
 
@@ -31,6 +31,9 @@ Both ‘technology’ and ‘wellbeing’ are multi-dimensional concepts beyond 
 **Session 07: Art and Technology**
 
 **Session 07: Practical Actions**
+
+# Watching course on Youtube
+[Solarpunk Societies Playlist](https://www.youtube.com/playlist?list=PLAEJPFy6p9y9O__HZgZ8ue4lG1yP5QTSs)
 
 # References
 - [Solarpunk in a one-minute animated video](https://www.youtube.com/watch?v=z-Ng5ZvrDm4&ab_channel=THELINE)
